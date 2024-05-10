@@ -19,7 +19,7 @@ Images Space is a state-of-the-art AI image generator platform designed to help 
 - **OpenAI's DALL-E Model:** Utilizes OpenAI's advanced deep learning model to generate images from text input, bringing your visions to life.
 - **Cloudinary:** A cloud-based image storage and management service that offers robust and efficient image hosting capabilities.
 
-# Images Space Setup and Installation Guide
+## Images Space Setup and Installation Guide
 
 To get Images Space running locally on your machine, follow these steps:
 
